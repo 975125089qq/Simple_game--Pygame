@@ -1,10 +1,10 @@
 # Simple_game--Pygame
-simple games created using pygame
+Simple games created using pygame
 
 
 
 ***
-game1
+Game1
 
 Black is the player, red is the target, and blue is the obstacle. Get to the target while avoiding colliding with obstacles. The number and moving speed of obstacles will increase as time goes by.
 
